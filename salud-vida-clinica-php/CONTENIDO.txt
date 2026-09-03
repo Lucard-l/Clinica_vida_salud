@@ -1,0 +1,11 @@
+Proyecto Salud Vida
+
+Archivos principales:
+README.md
+assets/app.css
+config.php
+db.php
+index.php
+sql/Salud_y_vida_nueva_completa.sql  <-- usar este archivo
+
+El resto de archivos SQL son versiones anteriores o scripts de referencia. No deben mezclarse con el esquema nuevo durante la instalación.
